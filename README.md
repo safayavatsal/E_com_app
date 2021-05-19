@@ -1,8 +1,5 @@
 # E-Commerce Complate Flutter UI Staring code
 
-### Note that: This is not complete yet
-
-## [Watch it on YouTube](https://youtu.be/YEJPg2jwzI8)
 
 **Packages we are using:**
 
