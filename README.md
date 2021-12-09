@@ -8,7 +8,7 @@ In the first part of our complete e-commerce app, we show you how you can create
 
 ### Video Preview of Final UI
 
-![Preview](/intro.gif)
+//![Preview](/intro.gif)
 
 ## Screens it contains:
 
